@@ -8,3 +8,8 @@ Jean's
 2.Salmon_Jean
 3.
 4.
+Kohei's
+1.Tuna_Kohei
+2.Snake_Kohei
+3.Crow_Kohei
+4.
