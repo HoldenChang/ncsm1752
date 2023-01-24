@@ -6,8 +6,8 @@ DongHoon's
 Jean's 
 1.Turtle_Jean
 2.Salmon_Jean
-3.
-4.
+3.Penguin_Jean
+4.Elephant_Jean
 Kohei's
 1.Tuna_Kohei
 2.Snake_Kohei
