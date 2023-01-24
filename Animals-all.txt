@@ -12,7 +12,7 @@ Kohei's
 1.Tuna_Kohei
 2.Snake_Kohei
 3.Crow_Kohei
-4.
+4.Dog_Kohei
 Gustavo's
 1.Lion_Gustavo
 2.Pidgeon_Gustavo
